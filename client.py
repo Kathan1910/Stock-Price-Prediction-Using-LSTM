@@ -15,7 +15,7 @@ import datetime
 
 
 # API Key and Fetch Data
-API_KEY = 'F6U8EWWSXP0JBP5O'
+API_KEY = 'F6U8EWWSXP0JBP**'
 SYMBOL = 'QQQ'
 TIME_SERIES_SIZE = 'full'
 URL = f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={SYMBOL}&outputsize={TIME_SERIES_SIZE}&apikey={API_KEY}"
